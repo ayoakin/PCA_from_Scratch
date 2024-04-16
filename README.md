@@ -9,7 +9,7 @@ Recreating the PCA algorithm gives the benefit of
 * understanding the mathematical concepts leveraged by the algorithm
 * Allows for model customization
 
-For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/linear-regression-from-scratch-using-matrices-991df6e28f62)
+For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-a-principal-component-analysis-pca-algorithm-from-scratch-7515595bf08b)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/PCA_from_Scratch/blob/main/Build_PCA_(Principal_Component_Analysis)_from_Scratch.ipynb).
